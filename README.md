@@ -17,7 +17,7 @@
 **版本控制:**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/yeyang52) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/yeyang52)
-[![Gitee](https://img.shields.io/badge/-Gitee-C71D23?style=flat&logo=gitee)](https://github.com/yeyang52)
+[![Gitee](https://img.shields.io/badge/-Gitee-C71D23?style=flat&logo=gitee)](https://gitee.com/yeyang52)
 
 <sup>*单击某些徽章可能会将您重定向到相应的存储库</sup>
 
