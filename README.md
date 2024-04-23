@@ -1,6 +1,8 @@
 ## Hello World! 👋
 
-<div align="center"> 🚀 欢迎来到我的家 :japanese_castle:</div>
+<div align="center"> 🚀 欢迎来到我的家 :japanese_castle:
+<br><img src="https://count.getloli.com/get/@:yeyang52?theme=rule34" />
+</div>
 
 ---
 ### 💻:keyboard: 语言和工具 
